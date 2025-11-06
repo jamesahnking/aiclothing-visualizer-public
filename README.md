@@ -8,7 +8,6 @@ A web application that allows users to visualize clothing items on models and pl
 - Composite generation to place try-on results in different scenes
 - Image storage and management with Supabase
 - API integration with IDM-VTON and AI Image Combiner
-- Monitoring and logging with LangSmith
 
 ## Project Structure
 /  - `/docs`: Guides and Instructions
@@ -27,7 +26,7 @@ A web application that allows users to visualize clothing items on models and pl
 - Supabase account
 - IDM-VTON API key (Replicate)
 - AI Image Combiner API key
-- LangSmith API key (optional)
+
 
 ### Environment Setup
 
